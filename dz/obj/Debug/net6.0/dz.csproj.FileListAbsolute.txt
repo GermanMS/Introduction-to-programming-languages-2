@@ -1,0 +1,15 @@
+C:\Users\Makee\Desktop\study\dsem2\dz\obj\Debug\net6.0\dz.csproj.AssemblyReference.cache
+C:\Users\Makee\Desktop\study\dsem2\dz\obj\Debug\net6.0\dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makee\Desktop\study\dsem2\dz\obj\Debug\net6.0\dz.AssemblyInfoInputs.cache
+C:\Users\Makee\Desktop\study\dsem2\dz\obj\Debug\net6.0\dz.AssemblyInfo.cs
+C:\Users\Makee\Desktop\study\dsem2\dz\obj\Debug\net6.0\dz.csproj.CoreCompileInputs.cache
+C:\Users\Makee\Desktop\study\dsem2\dz\bin\Debug\net6.0\dz.exe
+C:\Users\Makee\Desktop\study\dsem2\dz\bin\Debug\net6.0\dz.deps.json
+C:\Users\Makee\Desktop\study\dsem2\dz\bin\Debug\net6.0\dz.runtimeconfig.json
+C:\Users\Makee\Desktop\study\dsem2\dz\bin\Debug\net6.0\dz.dll
+C:\Users\Makee\Desktop\study\dsem2\dz\bin\Debug\net6.0\dz.pdb
+C:\Users\Makee\Desktop\study\dsem2\dz\obj\Debug\net6.0\dz.dll
+C:\Users\Makee\Desktop\study\dsem2\dz\obj\Debug\net6.0\refint\dz.dll
+C:\Users\Makee\Desktop\study\dsem2\dz\obj\Debug\net6.0\dz.pdb
+C:\Users\Makee\Desktop\study\dsem2\dz\obj\Debug\net6.0\dz.genruntimeconfig.cache
+C:\Users\Makee\Desktop\study\dsem2\dz\obj\Debug\net6.0\ref\dz.dll
