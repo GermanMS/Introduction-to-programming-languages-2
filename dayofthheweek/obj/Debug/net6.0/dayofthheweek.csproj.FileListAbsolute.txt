@@ -1,0 +1,15 @@
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\bin\Debug\net6.0\dayofthheweek.exe
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\bin\Debug\net6.0\dayofthheweek.deps.json
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\bin\Debug\net6.0\dayofthheweek.runtimeconfig.json
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\bin\Debug\net6.0\dayofthheweek.dll
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\bin\Debug\net6.0\dayofthheweek.pdb
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\obj\Debug\net6.0\dayofthheweek.csproj.AssemblyReference.cache
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\obj\Debug\net6.0\dayofthheweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\obj\Debug\net6.0\dayofthheweek.AssemblyInfoInputs.cache
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\obj\Debug\net6.0\dayofthheweek.AssemblyInfo.cs
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\obj\Debug\net6.0\dayofthheweek.csproj.CoreCompileInputs.cache
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\obj\Debug\net6.0\dayofthheweek.dll
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\obj\Debug\net6.0\refint\dayofthheweek.dll
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\obj\Debug\net6.0\dayofthheweek.pdb
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\obj\Debug\net6.0\dayofthheweek.genruntimeconfig.cache
+C:\Users\Makee\Desktop\study\dsem2\dayofthheweek\obj\Debug\net6.0\ref\dayofthheweek.dll
